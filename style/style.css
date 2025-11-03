@@ -1,0 +1,10 @@
+@font-face {
+    font-family:"Jaya-Abadi";
+    src: url("./jayaabadifont-regular-webfont.ttf");
+}
+
+body{
+    background-color: dimgrey;
+    font-family: "Jaya-Abadi";
+    text-align: center;
+}
